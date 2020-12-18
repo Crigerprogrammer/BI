@@ -14,3 +14,9 @@ Herramienta que se utiliza para almacenar o recopilar datos de forma organizada 
 
 ### Importancia de una base de datos
 Si escoges bien los datos que incluyes en tu base de datos, puedes sacar conclusiones útilez y reales sobre tu negocio.
+
+### 4 Pasos para construir una base de datos
+1. **Identificar las tablas**: identificar adecuadamente los elementos de información y dividirlos en entidades.
+2. **Determinar las categorías**
+3. **Determinar las llaves primarias**: El identificador único para cada tabla. Examina las tablas creadas y revisa si existe alguna relación entre ellas.
+4. **Identificar y remover datos repetidos**
