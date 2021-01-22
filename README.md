@@ -1,4 +1,4 @@
-## Business Intelligence
+## Business Intelligence (Inteligencia 
 ---
 
 ### ¿Qué es una base de datos?
