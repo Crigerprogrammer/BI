@@ -24,3 +24,13 @@ Si escoges bien los datos que incluyes en tu base de datos, puedes sacar conclus
 ### Estructura
 1. Escoger las categorías y ordenarlas por axis horizontal (filas) y vertical (columnas) según tu objetivo.
 2. Para después poder filtrar y encontrar fácilmente dicha información
+
+## Visualización de datos
+**Definición**:
+Es una representación gráfica de la información y los datos. Mediante el uso de elementos visuales, como gráficos y mapas.
+
+Ofrece una manera accesible para detectar y comprender las tendencias, los valores atípicos y los patrones en los datos.
+**Utilidad**
+Cada vez es más importante para los profesionales poder tomar decisiones basadas en los datos y hacer uso de los elementos visuales para contar historias.  
+
+**La visualización de datos ocupa posición central entre el análisis y el relato de historias** .
