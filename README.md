@@ -1,6 +1,5 @@
-## Business Intelligence
----
-
+## Business Intelligence (Inteligencia de negocios)
+--- platzi
 ### ¿Qué es una base de datos?
 
 Herramienta que se utiliza para almacenar o recopilar datos de forma organizada y relacionada para hacer una búsqueda óptima y extraer conclusiones; datos sobre personas, productos, ventas, etc.
@@ -24,6 +23,7 @@ Si escoges bien los datos que incluyes en tu base de datos, puedes sacar conclus
 ### Estructura
 1. Escoger las categorías y ordenarlas por axis horizontal (filas) y vertical (columnas) según tu objetivo.
 2. Para después poder filtrar y encontrar fácilmente dicha información
+<<<<<<< HEAD
 
 ## Visualización de datos
 **Definición**:
@@ -34,3 +34,5 @@ Ofrece una manera accesible para detectar y comprender las tendencias, los valor
 Cada vez es más importante para los profesionales poder tomar decisiones basadas en los datos y hacer uso de los elementos visuales para contar historias.  
 
 **La visualización de datos ocupa posición central entre el análisis y el relato de historias** .
+=======
+>>>>>>> 64874ab5c1bced82edc24c9856358328c41e52f2
