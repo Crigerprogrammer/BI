@@ -50,3 +50,8 @@ Es un valor seguro para obtener una imagen clara y sencilla. Sin embargo, el for
 Un gráfico de línea muestra las relaciones de los cambios en los datos en un período de tiempo.
 
 Útil para mostrar tendencias, sobre todo para las tendencias a la alza. Para las decrecientes se tiende a usar gráficos “poco claros” como el waterfall.
+
+- Grafico circular:
+También conocidos como “pie” en inglés. A menos que quieras mostrar cómo diferentes partes representan un total, es probable que puedas pasar por alto los gráficos circulares.
+
+Su función principal es mostrar la división de varios elementos (esperemos que no demasiados) en una cosa. Muy útiles cuando creamos un documento diseñado y pensado para un destinatario que leerá los datos por encima (dirección).
