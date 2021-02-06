@@ -36,3 +36,9 @@ Cada vez es más importante para los profesionales poder tomar decisiones basada
 **La visualización de datos ocupa posición central entre el análisis y el relato de historias** .
 =======
 >>>>>>> 64874ab5c1bced82edc24c9856358328c41e52f2
+
+## Tipo de visualización de datos
+- Tabla: 
+Desde un par de números a las hojas de Excel con cientos de filas y columnas. Las tablas sirven para mostrar los números prácticamente a secas, sí, pero siempre se pueden trabajar (en mayor o menor medida) y hacerlas más fáciles de descodificar a primera vista.
+
+      
