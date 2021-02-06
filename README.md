@@ -44,4 +44,9 @@ Desde un par de números a las hojas de Excel con cientos de filas y columnas. L
 - Grafico de barra:
 Un gráfico de barra o columna hace énfasis en la comparación entre elementos en un período de tiempo específico.
 
-Es un valor seguro para obtener una imagen clara y sencilla. Sin embargo, el formato no se presta para una verdadera comprensión de grandes datos, de cómo se ha llegado hasta aquí y hacia dónde vamos.      
+Es un valor seguro para obtener una imagen clara y sencilla. Sin embargo, el formato no se presta para una verdadera comprensión de grandes datos, de cómo se ha llegado hasta aquí y hacia dónde vamos.
+
+- Graficos de línea:
+Un gráfico de línea muestra las relaciones de los cambios en los datos en un período de tiempo.
+
+Útil para mostrar tendencias, sobre todo para las tendencias a la alza. Para las decrecientes se tiende a usar gráficos “poco claros” como el waterfall.
