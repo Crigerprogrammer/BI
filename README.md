@@ -41,4 +41,7 @@ Cada vez es más importante para los profesionales poder tomar decisiones basada
 - Tabla: 
 Desde un par de números a las hojas de Excel con cientos de filas y columnas. Las tablas sirven para mostrar los números prácticamente a secas, sí, pero siempre se pueden trabajar (en mayor o menor medida) y hacerlas más fáciles de descodificar a primera vista.
 
-      
+- Grafico de barra:
+Un gráfico de barra o columna hace énfasis en la comparación entre elementos en un período de tiempo específico.
+
+Es un valor seguro para obtener una imagen clara y sencilla. Sin embargo, el formato no se presta para una verdadera comprensión de grandes datos, de cómo se ha llegado hasta aquí y hacia dónde vamos.      
