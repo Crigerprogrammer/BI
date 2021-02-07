@@ -20,7 +20,7 @@ Si escoges bien los datos que incluyes en tu base de datos, puedes sacar conclus
 3. **Determinar las llaves primarias**: El identificador único para cada tabla. Examina las tablas creadas y revisa si existe alguna relación entre ellas.
 4. **Identificar y remover datos repetidos**
 
-### Estructura
+### Estructur
 1. Escoger las categorías y ordenarlas por axis horizontal (filas) y vertical (columnas) según tu objetivo.
 2. Para después poder filtrar y encontrar fácilmente dicha información
 <<<<<<< HEAD
