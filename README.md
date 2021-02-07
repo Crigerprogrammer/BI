@@ -55,3 +55,8 @@ Un gráfico de línea muestra las relaciones de los cambios en los datos en un p
 También conocidos como “pie” en inglés. A menos que quieras mostrar cómo diferentes partes representan un total, es probable que puedas pasar por alto los gráficos circulares.
 
 Su función principal es mostrar la división de varios elementos (esperemos que no demasiados) en una cosa. Muy útiles cuando creamos un documento diseñado y pensado para un destinatario que leerá los datos por encima (dirección).
+
+### Visualización de datos
+Es una alternativa visual que atrae nuestra atención y la dirige hacia el mensaje. Cuando vemos un gráfico, rápidamente identifícamos las tendencias y los valores atípicos y nos resulta más fácil asimilar la información.
+
+*La visualización de datos se basa en contar historias con un propósito*
