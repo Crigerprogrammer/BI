@@ -23,7 +23,6 @@ Si escoges bien los datos que incluyes en tu base de datos, puedes sacar conclus
 ### Estructura
 1. Escoger las categorías y ordenarlas por axis horizontal (filas) y vertical (columnas) según tu objetivo.
 2. Para después poder filtrar y encontrar fácilmente dicha información
-<<<<<<< HEAD
 
 ## Visualización de datos
 **Definición**:
@@ -34,8 +33,6 @@ Ofrece una manera accesible para detectar y comprender las tendencias, los valor
 Cada vez es más importante para los profesionales poder tomar decisiones basadas en los datos y hacer uso de los elementos visuales para contar historias.  
 
 **La visualización de datos ocupa posición central entre el análisis y el relato de historias** .
-=======
->>>>>>> 64874ab5c1bced82edc24c9856358328c41e52f2
 
 ## Tipo de visualización de datos
 - Tabla: 
@@ -55,11 +52,8 @@ Un gráfico de línea muestra las relaciones de los cambios en los datos en un p
 También conocidos como “pie” en inglés. A menos que quieras mostrar cómo diferentes partes representan un total, es probable que puedas pasar por alto los gráficos circulares.
 
 Su función principal es mostrar la división de varios elementos (esperemos que no demasiados) en una cosa. Muy útiles cuando creamos un documento diseñado y pensado para un destinatario que leerá los datos por encima (dirección).
-<<<<<<< HEAD
 
 ### Visualización de datos
 Es una alternativa visual que atrae nuestra atención y la dirige hacia el mensaje. Cuando vemos un gráfico, rápidamente identifícamos las tendencias y los valores atípicos y nos resulta más fácil asimilar la información.
 
 *La visualización de datos se basa en contar historias con un propósito*
-=======
->>>>>>> d731a7deeaee1a5585fceb2927fd41487b132309
