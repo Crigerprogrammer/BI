@@ -1,4 +1,4 @@
-## Business Intelligence(Inteligencia de negocios)
+## Business Intelligence (Inteligencia de negocios)
 --- platzi
 ### ¿Qué es una base de datos?
 
