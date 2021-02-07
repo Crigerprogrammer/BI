@@ -1,6 +1,6 @@
 ## Business Intelligence (Inteligencia de negocios)
 --- platzi
-### ¿Qué es una base de datos?
+### ¿Qué es una base de datos?.
 
 Herramienta que se utiliza para almacenar o recopilar datos de forma organizada y relacionada para hacer una búsqueda óptima y extraer conclusiones; datos sobre personas, productos, ventas, etc.
 
@@ -55,8 +55,11 @@ Un gráfico de línea muestra las relaciones de los cambios en los datos en un p
 También conocidos como “pie” en inglés. A menos que quieras mostrar cómo diferentes partes representan un total, es probable que puedas pasar por alto los gráficos circulares.
 
 Su función principal es mostrar la división de varios elementos (esperemos que no demasiados) en una cosa. Muy útiles cuando creamos un documento diseñado y pensado para un destinatario que leerá los datos por encima (dirección).
+<<<<<<< HEAD
 
 ### Visualización de datos
 Es una alternativa visual que atrae nuestra atención y la dirige hacia el mensaje. Cuando vemos un gráfico, rápidamente identifícamos las tendencias y los valores atípicos y nos resulta más fácil asimilar la información.
 
 *La visualización de datos se basa en contar historias con un propósito*
+=======
+>>>>>>> d731a7deeaee1a5585fceb2927fd41487b132309
