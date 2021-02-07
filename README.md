@@ -57,3 +57,10 @@ Su función principal es mostrar la división de varios elementos (esperemos que
 Es una alternativa visual que atrae nuestra atención y la dirige hacia el mensaje. Cuando vemos un gráfico, rápidamente identifícamos las tendencias y los valores atípicos y nos resulta más fácil asimilar la información.
 
 *La visualización de datos se basa en contar historias con un propósito*
+
+**¿Cómo conseguir su eficacia?**
+- Piensa siempre en el público objetivo
+- Elige el gráfico adecuado
+- Usa las tablas lo menos posible
+- Resalta la información más importante (color)
+- El título del gráfico proporciona información
