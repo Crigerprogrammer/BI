@@ -67,3 +67,6 @@ Es una alternativa visual que atrae nuestra atención y la dirige hacia el mensa
 
 ### Elaboración de *dashboards* 
 Los dashboards son una herramienta de gestión de la información que monitoriza, analiza y muestra de manera **VISUAL** los indicadores claves (KPI's), métricas y datos fundamentales para entender y hacer seguimiento del estado de la empresa, un departamento, una campaña o un proceso.
+
+**Principales características**
+- Muestra gráficamente los datos, ayudando al destinatario del informe a enfocar su atención en posibles desviaciones, tendencias, comparaciones y otros comportamientos de algunas métricas de carácter económico y financiero
