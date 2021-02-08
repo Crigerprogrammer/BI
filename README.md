@@ -74,3 +74,9 @@ Los dashboards son una herramienta de gestión de la información que monitoriza
 - Muestra solo los datos relevantes con respecto a un objetivo general establecido
 
 - Muestra conclusiones objetivas.
+
+**Por qué es muy útil el dashboard?**
+
+- Permite medir múltiples KPI's y métricas al mismo tiempo.
+- No hace falta ser expero en análisis para comprenderlo
+- Contar con un panel de control centralizado.
