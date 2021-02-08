@@ -80,3 +80,10 @@ Los dashboards son una herramienta de gestión de la información que monitoriza
 - Permite medir múltiples KPI's y métricas al mismo tiempo.
 - No hace falta ser expero en análisis para comprenderlo
 - Contar con un panel de control centralizado.
+
+### Métricas Básicas
+- Punto muerto 
+- Ingreso neto
+- Cash Flow
+- Cash burn rate
+- Margen bruto del producto
