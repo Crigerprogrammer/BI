@@ -64,3 +64,6 @@ Es una alternativa visual que atrae nuestra atención y la dirige hacia el mensa
 - Usa las tablas lo menos posible
 - Resalta la información más importante (color)
 - El título del gráfico proporciona información
+
+### Elaboración de *dashboards* 
+Los dashboards son una herramienta de gestión de la información que monitoriza, analiza y muestra de manera **VISUAL** los indicadores claves (KPI's), métricas y datos fundamentales para entender y hacer seguimiento del estado de la empresa, un departamento, una campaña o un proceso.
