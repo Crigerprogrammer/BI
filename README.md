@@ -87,3 +87,5 @@ Los dashboards son una herramienta de gestión de la información que monitoriza
 - Cash Flow
 - Cash burn rate
 - Margen bruto del producto
+
+Cada negocio tiene sus métricas y las métricas se calculan sobre unos datos u otros dependiendo del modelo del negocio
